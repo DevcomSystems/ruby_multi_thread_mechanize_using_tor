@@ -1,0 +1,11 @@
+GEM
+  specs:
+    net-ssh (2.6.3)
+    net-ssh-telnet (0.0.2)
+      net-ssh (>= 2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  net-ssh-telnet
